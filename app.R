@@ -21,8 +21,7 @@ library(DT)
 ################IMPORTACIÓN######################## 
 
 
-# install.packages("tidyverse")
-library(tidyverse)
+
 
 #Importo según el tipo de origen de la base. Sacar comentario y adaptar según corresponda 
 
