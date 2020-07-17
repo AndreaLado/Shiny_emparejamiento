@@ -50,6 +50,9 @@ meanTest <- function(Tr,Co,weights.Tr,weights.Co) {
 #base<- read_excel("ubicación de la base")
 
 #EJEMPLO: base de datos INEED estudiantes
+#Disponible en:
+#https://www.ineed.edu.uy/nuestro-trabajo/bases-de-datos/444-aristas-2018-tercero-de-educacion-media.html
+#Utilizo la base de datos de HSE en formato csv
 
 base <-read_delim("Datos_Estudiantes_HSE.csv", 
                       ";", escape_double = FALSE, col_types = cols(AlumnoGenero15 = col_character(), 
