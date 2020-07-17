@@ -1,3 +1,13 @@
+# install.packages("tidyverse")
+# install.packages("shiny")
+# install.packages("shinyWidgets")
+# install.packages("ebal")
+# install.packages("shinydashboard")
+# install.packages("MatchIt")
+# install.packages("optmatch")
+# install.packages("DT")
+
+
 library(tidyverse)
 library(shiny)
 library(shinyWidgets)
